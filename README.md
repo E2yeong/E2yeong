@@ -14,10 +14,10 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, Java, C  
+- **Languages**: Python, Java
 - **Web**: HTML, CSS, JavaScript  
-- **Tools**: Git, Linux, VSCode, IntelliJ  
-- **Other**: Cybersecurity basics, SQL  
+- **Tools**: Git, VSCode, IntelliJ  
+- **Other**: Cybersecurity basics  
 
 ---
 
@@ -42,8 +42,7 @@
 ## 🌱 Currently Learning
 - Advanced **Data Structures & Algorithms**  
 - Applied **Cybersecurity** (CTF & Write-ups)  
-- Mathematics for CS (Discrete Math, Linear Algebra, Probability)  
-d
+- Mathematics for CS (Discrete Math, Linear Algebra, Probability)
 ---
 
 ## 📫 Contact
