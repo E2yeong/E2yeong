@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oskar (E2yeong)
+# 👋 Hi, I'm Jooyeong Lee (E2yeong)
 
 🎓 High School Senior | 💻 Aspiring Computer Scientist & Cybersecurity Enthusiast  
 🌎 Applying to engineering programs in US/Canada (e.g., University of Waterloo)  
@@ -22,9 +22,8 @@
 ---
 
 ## 📂 Projects
-- 📖 [Library Management System](https://github.com/yourusername/library-management)  
-- 📝 [Vocabulary Memorization App](https://github.com/yourusername/vocab-app)  
-- 🌐 [Portfolio Website (GitHub Pages)](https://yourusername.github.io)  
+- 📖 [Library Management System]([https://github.com/yourusername/library-management](https://github.com/E2yeong/Library-GLCS))   
+- 🌐 [Portfolio Website (GitHub Pages)](https://e2yeong.github.io/my-portfolio)  
 
 ---
 
@@ -44,13 +43,9 @@
 - Advanced **Data Structures & Algorithms**  
 - Applied **Cybersecurity** (CTF & Write-ups)  
 - Mathematics for CS (Discrete Math, Linear Algebra, Probability)  
-
+d
 ---
 
 ## 📫 Contact
-- ✉️ Email: your_email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 📝 Blog: [yourblog.com](https://yourblog.com)  
-
+- ✉️ Email: Jooyeoung20071005@gmail.com 
 ---
-✨ *“Effort never betrays, but effort without direction can.”*  
