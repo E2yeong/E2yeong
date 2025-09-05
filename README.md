@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Jooyeong Lee (E2yeong)
 
 🎓 High School Senior | 💻 Aspiring Computer Scientist & Cybersecurity Enthusiast  
-🌎 Applying to engineering programs in US/Canada (e.g., University of Waterloo)  
+🌎 Applying to engineering programs in US/Canada
 
 ---
 
 ## 🚀 About Me
 - 🧑‍🎓 Currently a senior in high school (Class of 2025)  
 - 📘 Self-studied **AP Physics** and currently taking **AP Calculus & Physics**  
-- 📚 Interested in **Cybersecurity** and **Computer Science**  
+- 📚 Interested in **Cybersecurity**, **Computer Science** and **Backend**  
 - 🎯 Passionate about building projects that combine **creativity and problem-solving**  
 
 ---
