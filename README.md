@@ -22,7 +22,7 @@
 ---
 
 ## 📂 Projects
-- 📖 [Library Management System]([https://github.com/yourusername/library-management](https://github.com/E2yeong/Library-GLCS))   
+- 📖 [Library Management System]([https://github.com/E2yeong/library-management](https://github.com/E2yeong/Library-GLCS))   
 - 🌐 [Portfolio Website (GitHub Pages)](https://e2yeong.github.io/my-portfolio)  
 
 ---
@@ -33,7 +33,7 @@
 ---
 
 ## 📊 GitHub Stats
-![E2yeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![E2yeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=E2yeong&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E2yeong&layout=compact&theme=tokyonight)  
 
